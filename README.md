@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **Think Think Think...**
 
-    ![GitHub Views](https://komarev.com/ghpvc/?username=Saurabh2509&color=brightgreen&style=flat)
+    <img src="https://komarev.com/ghpvc/?username=Saurabh2509" width=160px/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
