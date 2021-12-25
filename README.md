@@ -47,6 +47,13 @@
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147372095-6e5fce49-fc60-4efe-8f45-fbb6db6dea37.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147378878-2609a353-7f7d-419d-919d-227bcb02f4f1.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147378847-f2ddb4aa-419f-4d6f-bc3c-0862fceba280.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147379123-86410ac4-e689-441b-8dde-8bf1a034e563.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147378995-2436ad4b-6f3b-460c-909b-5f62c7b6baa6.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/54509629/147379189-00cc308a-d1af-47f0-88b3-e1cb6d593f4a.png"></code>
+
+
 <br/>
 #
 <summary>
