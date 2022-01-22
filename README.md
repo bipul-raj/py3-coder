@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=System.out.println(Python);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=System.out.println(py3-coder);">
   </a>
 </h1>
 <br/>
@@ -19,7 +19,7 @@
 <p align="center">
  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=py3-coder&style=flat&color=red"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/py3-coder?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Mystery-2-Dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://img.shields.io/github/stars/py3-coder?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 
@@ -63,7 +63,7 @@
 <br>
 <p align="left">
   <a href="https://github.com/py3-coder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh2509&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=py3-coder&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   <a href="https://github.com/py3-coder">
      <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2509&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
