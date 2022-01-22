@@ -17,15 +17,15 @@
 <br/>
 
 <p align="center">
- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Saurabh2509&style=flat&color=red"> •   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Saurabh2509?label=Followers&style=social"> •   
+ <img alt = "profile views" src="https://komarev.com/ghpvc/?username=py3-coder&style=flat&color=red"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/py3-coder?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/Mystery-2-Dev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2509&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=py3-coder&theme=dark&hide_border=true"/>
   </a>
 </p>
 
@@ -62,15 +62,15 @@
 </summary>
 <br>
 <p align="left">
-  <a href="https://github.com/Saurabh2509">
+  <a href="https://github.com/py3-coder">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh2509&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  <a href="https://github.com/Saurabh2509">
+  <a href="https://github.com/py3-coder">
      <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2509&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 <br>
 
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Saurabh2509&theme=react-dark&hide_border=true&area=true) 
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=py3-coder&theme=react-dark&hide_border=true&area=true) 
   
   ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
   
