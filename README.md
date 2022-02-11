@@ -79,19 +79,19 @@
   
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
-  <a href="www.linkedin.com/in/py3-coder/" target="_blank">
+  <a href="https://www.linkedin.com/in/py3-coder/" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
   <a href="https://twitter.com/py3_coder/" target="_blank">
     <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/py3_coder">
-    <code><img src="SVG/dev.svg" alt="Saurabh's DEV Profile" height="62" width="62"></code>
+     <code><img height="60" width="60" src="SVG/dev.svg"/></code>
   </a>     
 </p>
 <br/>
