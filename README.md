@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=System.out.println(bipul-raj);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Code Code Code;">
   </a>
 </h1>
 <br/>
@@ -84,14 +84,8 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/bipul-raj/" target="_blank">
+  <a href="www.linkedin.com/in/bipul-raj" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://twitter.com/py3_coder/" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/py3_coder">
-     <code><img height="60" width="60" src="SVG/dev.svg"/></code>
   </a>     
 </p>
 <br/>
